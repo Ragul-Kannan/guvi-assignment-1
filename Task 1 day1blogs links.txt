@@ -1,0 +1,2 @@
+blog 1:https://http1-vs-http2.blogspot.com/2022/01/http1-vs-http2.html
+blog 2:https://http1-vs-http2.blogspot.com/2022/01/objects-in-java-script.html
